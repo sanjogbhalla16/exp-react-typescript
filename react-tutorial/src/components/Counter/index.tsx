@@ -6,6 +6,7 @@ const Counter: React.FC = (props) => {
   //console.log(counter);
 
   //component unmounted and how a component is mounted
+  //tsx typescript xml
   useEffect(() => {
     console.log("Counter");
 
